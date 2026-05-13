@@ -1,4 +1,4 @@
-# Typing HUD
+# GhostType
 
 A lightweight native Windows overlay that lights up keys on a virtual keyboard as you type — globally, across every application. Built to help developers learn touch typing without interrupting their actual work.
 
